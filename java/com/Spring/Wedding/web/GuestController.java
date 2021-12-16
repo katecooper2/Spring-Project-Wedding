@@ -16,7 +16,7 @@ import com.Spring.Wedding.domain.Guest;
 import com.Spring.Wedding.service.GuestService;
 
 
-
+@CrossOrigin
 
 @RestController
 public class GuestController {
